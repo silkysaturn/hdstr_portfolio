@@ -72,6 +72,16 @@ input, select, textarea {
 	appearance: none;
 }
 
+.proj {
+	text-decoration: none;
+	font-size: 2.0em;
+}
+
+.proj :hover {
+	color: #348cb2;
+	border: 2px solid #fff;
+}
+
 /* Basic */
 
 	html {
@@ -1079,3 +1089,4 @@ input, select, textarea {
 		#header nav {
 			padding: 0 1em;
 		} }
+
